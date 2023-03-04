@@ -1,4 +1,4 @@
-# TagBar
+# TagBar [WvW]
 
 Compares your enemy tags (people you hit) to the total possible.
 
