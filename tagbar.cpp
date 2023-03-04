@@ -501,7 +501,7 @@ uintptr_t imgui_proc(uint32_t not_charsel_or_loading, uint32_t hide_if_combat_or
 			}
 			ImGui::PopStyleColor();
 		}
-		ImGui::PopStyleVar(2);
+		ImGui::PopStyleVar(3);
 		ImGui::End();
 	}
 	return 0;
