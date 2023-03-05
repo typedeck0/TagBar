@@ -1,6 +1,10 @@
 # TagBar [WvW]
 
+![image](https://user-images.githubusercontent.com/113395677/222935273-3e97928a-cdaf-4019-9a6b-a35661599d4d.png)
+
 Compares your enemy tags (people you hit) to the total possible.
+
+tags/(total enemies)
 
 ## Build
 targeting [ImGui 1.8](https://github.com/ocornut/imgui/tree/v1.80)
